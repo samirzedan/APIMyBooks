@@ -1,0 +1,33 @@
+# Arquivos temporários criados pelo Visual Studio
+.vs/
+
+# Arquivos binários gerados durante a compilação
+bin/
+obj/
+
+# Arquivos de configuração que contêm segredos ou configurações sensíveis (exemplo: appsettings.json com senhas)
+appsettings.json
+appsettings.Development.json
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Pacotes NuGet
+*.nupkg
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Cache e arquivos temporários de compilação do .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# Banco de dados SQLite
+mydatabase.db
